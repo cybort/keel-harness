@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "KEEL",
+      "hasCanvas": false,
+      "bodyTextLen": 932,
+      "bodyTextHash": "7ba7eb5db3fde86bb0a12f0e198ae759c4fe2d9266eb5de85686e491c51d2fd4",
+      "bodyTextPrefix": "KEEL 5 进程 · 挂载 7 · 省下 3 协议包 重置 SESSION 新会话 聚合 MCP，不再按会话起进程 测线 · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "KEEL",
+      "hasCanvas": false,
+      "bodyTextLen": 468,
+      "bodyTextHash": "ea6eef9858cb29f13242f20ce7b16e30ffb28e52bb497f9265ec06fc332f56ea",
+      "bodyTextPrefix": "KEEL 5 进程 · 挂载 7 · 省下 3 协议包 重置 聚合 MCP，不再按会话起进程 测线 · Claude Sonne",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
